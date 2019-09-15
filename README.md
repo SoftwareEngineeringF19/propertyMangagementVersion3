@@ -6,14 +6,14 @@ Getting Started
 ------
 These instructions will get you a copy of the project running on your local machine
 
-###Prerequisites
+### Prerequisites
 1. [Download Python](https://www.python.org/downloads/)
 2. Install Django by running the following command in the command prompt or terminal
 ```
 pip install django
 ```
 
-###Installing
+### Installing
 1. Clone the repository
 ```
 git clone https://github.com/SoftwareEngineeringF19/propertyMangagementVersion3.git
